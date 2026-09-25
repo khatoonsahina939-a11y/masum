@@ -1,0 +1,6 @@
+{
+  "name": "56Club",
+  "description": "A mobile-first virtual-credit gaming platform featuring WinGo number draw and Aviator flight multiplier simulators with transparent demo engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
